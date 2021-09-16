@@ -1,0 +1,2 @@
+C:\Stark&visual studio\算法和数据结构\线性表\栈和队列\2021_9_7\Debug\2021_9_7.exe
+C:\Stark&visual studio\算法和数据结构\线性表\栈和队列\2021_9_7\Debug\2021_9_7.pdb
